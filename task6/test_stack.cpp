@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include "stack.h"
 
 using namespace std;
@@ -48,4 +48,4 @@ int main()
     cout << s3.size() << endl;
 
     return 0;
-}*/
+}
